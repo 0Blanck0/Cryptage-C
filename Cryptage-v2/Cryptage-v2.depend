@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604847560 source:d:\programmation\github\cryptage-c\cryptage-v2\sub.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

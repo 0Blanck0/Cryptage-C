@@ -35,7 +35,6 @@ void Crypting(char *tableau, int tailleTableau, FILE* fichier){
             verifTab[boucle] = caractere;
             boucle++;
             boucle2++;
-            printf("%c", caractere);
 
             if(boucle2 == 16){
                 newPos = (ftell(fichier)) + 9;
